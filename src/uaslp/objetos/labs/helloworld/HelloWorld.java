@@ -10,6 +10,6 @@ public class HelloWorld
 			System.out.println(args[i]);
 		}
 		
-		System.out.println("Hola mundo!! afa sad ad" + 12345 + " otra cosa");
+		System.out.println("Hola mundo!!");
 	}
 }
